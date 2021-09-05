@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459483681502",
+    "project_id": "matgar-app",
+    "storage_bucket": "matgar-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459483681502:android:2adf3392a5441593fda84f",
+        "android_client_info": {
+          "package_name": "com.example.matgar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459483681502-52thflg7ahmnig1odmb8r7nt9ki2uk6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChq3_-NpZapBDnOnOmNqkuk1hquDOyNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459483681502-52thflg7ahmnig1odmb8r7nt9ki2uk6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
